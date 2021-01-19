@@ -7,7 +7,11 @@
     },
     "additionalProbingPaths": [
       "C:\\Users\\maconrm180\\.dotnet\\store\\|arch|\\|tfm|",
+<<<<<<< Updated upstream
       "C:\\Users\\maconrm180\\.nuget\\packages",
+=======
+      "C:\\Users\\Macon Robotics\\.nuget\\packages",
+>>>>>>> Stashed changes
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "configProperties": {
