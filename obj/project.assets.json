@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Macon Robotics\\.nuget\\packages\\": {},
+    "C:\\Users\\maconrm180\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\CS_ASP_024.csproj",
+      "projectUniqueName": "C:\\Users\\maconrm180\\Documents\\Lucas Bramer\\CS_ASP_023\\CS_ASP_023\\CS_ASP_024.csproj",
       "projectName": "CS_ASP_024",
-      "projectPath": "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\CS_ASP_024.csproj",
-      "packagesPath": "C:\\Users\\Macon Robotics\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\obj\\",
+      "projectPath": "C:\\Users\\maconrm180\\Documents\\Lucas Bramer\\CS_ASP_023\\CS_ASP_023\\CS_ASP_024.csproj",
+      "packagesPath": "C:\\Users\\maconrm180\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maconrm180\\Documents\\Lucas Bramer\\CS_ASP_023\\CS_ASP_023\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Macon Robotics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maconrm180\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

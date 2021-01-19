@@ -11,7 +11,7 @@
         <Label x:Name="label1" Content="Fly From" HorizontalAlignment="Left" Margin="162,220,0,0" VerticalAlignment="Top" FontSize="22"/>
         <Label x:Name="label2" Content="Fly To" HorizontalAlignment="Left" Margin="165,447,0,0" VerticalAlignment="Top" FontSize="22"/>
         <CheckBox x:Name="checkBoxFromChicago" Content="Chicago" HorizontalAlignment="Left" Margin="227,296,0,0" VerticalAlignment="Top" FontSize="20"/>
-        <CheckBox x:Name="checkBoxFromNyYork" Content="New York" HorizontalAlignment="Left" Margin="227,339,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <CheckBox x:Name="checkBoxFromNewYork" Content="New York" HorizontalAlignment="Left" Margin="227,339,0,0" VerticalAlignment="Top" FontSize="20"/>
         <CheckBox x:Name="checkBoxFromAtlanta" Content="Atlanta" HorizontalAlignment="Left" Margin="224,389,0,0" VerticalAlignment="Top" FontSize="20"/>
         <CheckBox x:Name="checkBoxToChicago" Content="Chicago" HorizontalAlignment="Left" Margin="221,526,0,0" VerticalAlignment="Top" FontSize="20"/>
         <CheckBox x:Name="checkBoxToNewYork" Content="New York" HorizontalAlignment="Left" Margin="224,587,0,0" VerticalAlignment="Top" FontSize="20"/>
